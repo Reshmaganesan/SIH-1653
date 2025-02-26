@@ -40,15 +40,14 @@ Express.js
 
 SendGrid/Mailgun
 
-DEPENDENCIES
 
+
+
+## Dependencies
 Time line - 15 days
 
 Data collection - 15 days
 
 budget - rs.40,000
 
-
-
-## Dependencies
 
